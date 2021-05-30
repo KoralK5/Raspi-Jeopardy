@@ -1,6 +1,5 @@
 import RPi.GPIO as GPIO
 from gpiozero import LED
-from keyboard import is_pressed
 from csv import reader
 from time import sleep
 from random import shuffle, random
